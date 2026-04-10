@@ -1,3 +1,11 @@
+<div style="background: #007bff; color: white; padding: 60px 20px; text-align: center; border-radius: 10px; margin-bottom: 30px;">
+  <h1 style="font-size: 3rem; font-weight: bold; margin: 0;">Feng-Yang Hsu</h1>
+  <p style="font-size: 1.5rem; opacity: 0.9;">Ph.D. Candidate | Genomic Epidemiology of Zoonotic Pathogens</p>
+  <div style="margin-top: 20px;">
+    <a href="mailto:fengyang.hsu@umontreal.ca" style="color: white; border: 2px solid white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">Contact Me</a>
+  </div>
+</div>
+
 # Fengyang Hsu 👋
 **Ph.D. Candidate in Veterinary Science | Genomic Epidemiology**
 
