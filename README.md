@@ -8,7 +8,7 @@ I am a researcher specializing in **zoonotic bacteria**, bridging clinical patho
 
 - **SDSE Investigation**: Molecular epidemiology of *Streptococcus dysgalactiae* subsp. *equisimilis* in human and porcine hosts.
 - **Genomic Diversity**: Evolutionary analysis and virulence profiling of *Streptococcus* species.
-- **AMR Dynamics**: Monitoring Antimicrobial Resistance (AMR) transmission in zoonotic pathogens.
+- **AMR Dynamics**: Monitoring antimicrobial resistance (AMR) transmission in zoonotic pathogens.
 
 ---
 
